@@ -1,0 +1,85 @@
+[
+  {
+    "pitch_angle": 17.90840721130371,
+    "velocity_east": -0.011535508558154106,
+    "navigation_time": 16658320,
+    "height": 12.98473834991455,
+    "speed": 0.046910762842057835,
+    "waterDistance": 0,
+    "trackId": 32,
+    "soc_per_kilo": 2.0,
+    "remainMiles": "None",
+    "latitude": 31.108777,
+    "steer_control_drive": "1",
+    "waterDistanceWarn": 1,
+    "rolling_angle": 1.2217413187026978,
+    "angle_north": -75.13117980957031,
+    "soc_mean": 58.0,
+    "inTrack": 0,
+    "velocity_universe": 0.022150270640850067,
+    "no_sv": 28,
+    "velocity_north": -0.043982766568660736,
+    "longitude": 120.448283,
+    "shipNum": "0017",
+    "batteryNum": 2,
+    "water_quality": {
+      "oxy": 0.0,
+      "cl": 0.0,
+      "K": 0.0,
+      "c_time": 1627115980,
+      "resist": 0.0,
+      "NH4": 0.0,
+      "NH3": 0.0,
+      "conduct": 0.0,
+      "tds": 0.0,
+      "ph": 0.0,
+      "salt": 0.0,
+      "turb": 0.0
+    }
+  }
+]
+
+
+
+
+//{
+//  "data": {
+//    "pitchAngle": -1.9306416511535645, // 俯仰角
+//    "velocityEast": 0.21386194229125977, //东向速度
+//    "navigationTime": 7160190, // 导航时间 
+//    "height": 17.143821716308594, // 高度
+//    "speed": 0.34496155970189835, // 速度
+//    "waterDistance": 0, // 水深距离  0表示没有传感器数据
+//    "trackId": 19, // 轨迹编号
+//    "socPerKilo": 2.0, // 每公里消耗电量
+//    "remainMiles": "None", // 剩余里程 None表示无有效数据
+//    "latitude": 30.246655543494555, // 纬度
+//    "steerControlDrive": "1", // 驾驶模式
+//    "waterDistanceWarn": 0, // 水深告警  0表示无告警
+//    "rollingAngle": 0.13982003927230835, // 滚转角
+//    "angleNorth": 25.14093780517578, // 航向角
+//    "socMean": 49.5, // 平均电量
+//    "inTrack": 0, // 是否偏航  0表示没有偏航
+//    "velocityUniverse": -0.0021798040252178907, // 天向速度
+//    "noSv": 28, // 导航卫星个数  
+//    "velocityNorth": 0.1659054458141327, // 北向速度
+//    "longitude": 120.13443071662745, //  经度
+//    "shipNum": "0009", // 船编号
+//    "batteryNum": 2, // 电池数量
+//    "waterQuality": {
+//      "Diss_Oxy_Saturation": 97.8, // 溶解氧饱和度 单位%
+//      "chlorophy": 549.3, // 叶绿素含量 单位 ug/L
+//      "K": 1.4, // K+离子 单位 mg/L
+//      "Diss_Oxy": 10.33, // 溶解氧 单位 mg/L
+//      "NH4": 0.2, // 铵离子  单位 mg/L
+//      "Cod": 0.5, // 化学需氧量  单位 mg/L
+//      "NH3": 0.0, // 氨气  单位mg/L
+//      "device": "0009", // 船编号
+//      "PH": 8.38, // PH值
+//      "Turbidity": 3.2, // 浊度 单位NTU
+//      "createTime": "2021-02-24" // 数据采集时间
+//    }
+//  },
+//  "retCode": 0,
+//  "retMsg": "成功 | Success"
+//}

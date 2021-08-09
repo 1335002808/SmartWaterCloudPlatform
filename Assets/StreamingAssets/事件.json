@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"id": 415, // id
+			"detail": { // 详情
+				"code": 16,
+				"desc": "水草海藻"
+			},
+			"count": 1, // 垃圾数量
+			"aiId": 1087, // 
+			"riverName": "飞鹏后段", // 河段名称
+			"cTime": "2020-12-12 05:57:53.910793+00:00", // 发现事件
+			"url": "http://qingdaofu-bucket.oss-cn-hangzhou.aliyuncs.com/river/1607752667873.mp4", // 发现url
+			"latitude": "30.9603243105", // 纬度
+			"longitude": "120.94113866", // 经度
+			"shipNumber": "0012", // 船的编号
+			"trackId": "6",
+			"riverId": "12" // 河段id
+		},
+		{
+			"id": 414,
+			"detail": {
+				"code": 16,
+				"desc": "水草海藻"
+			},
+			"count": 1,
+			"aiId": 1086,
+			"riverName": "飞鹏后段",
+			"cTime": "2020-12-12 05:57:19.441631+00:00",
+			"url": "http://qingdaofu-bucket.oss-cn-hangzhou.aliyuncs.com/river/1607752634030.png",
+			"latitude": "30.1603064337",
+			"longitude": "120.141125683",
+			"shipNumber": "0012",
+			"trackId": "6",
+			"riverId": "12"
+		}
+	],
+	"retCode": 0,
+	"retMsg": "成功 | Success"
+}
